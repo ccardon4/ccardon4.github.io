@@ -43,6 +43,6 @@ My research centers on the application of economics to solve public health probl
 
 I received my Master’s degree in Health Economics from the [Department of International Health](https://publichealth.jhu.edu/departments/international-health) at JHSPH and my Bachelor’s in Economics from Universidad Privada Boliviana. 
 
-In my free time, I enjoy connecting with people, baking, and running. I wish to complete my first half marathon in 2022. I also love to travel, and thus far, I have lived in four countries—Bolivia, Brazil, Panama, and the United States. 
+In my free time, I enjoy connecting with people, baking, and running. I wish to complete my first half marathon in 2022. I also love to travel, and thus far, I have lived in four countries--Bolivia, Brazil, Panama, and the United States. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

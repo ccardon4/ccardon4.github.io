@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip Anglewicz | Carolina Cardona</title>
+    <link>https://ccardon4.github.io/author/philip-anglewicz/</link>
+      <atom:link href="https://ccardon4.github.io/author/philip-anglewicz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philip Anglewicz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ccardon4.github.io/media/icon_hu5323215e1b1d3c22a7ad8860be378daa_6663_512x512_fill_lanczos_center_3.png</url>
+      <title>Philip Anglewicz</title>
+      <link>https://ccardon4.github.io/author/philip-anglewicz/</link>
+    </image>
+    
+    <item>
+      <title>Is Client Reporting on Contraceptive Use Always Accurate? Measuring Consistency and Change with a Multicountry Study</title>
+      <link>https://ccardon4.github.io/publication/conference-paper/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ccardon4.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service delivery point and individual characteristics associated with the adoption of modern contraceptive: A multi-country longitudinal analysis</title>
+      <link>https://ccardon4.github.io/publication/preprint/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://ccardon4.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

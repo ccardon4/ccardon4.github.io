@@ -1,0 +1,9 @@
+{
+    "path" : "~/R/mywebsite",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

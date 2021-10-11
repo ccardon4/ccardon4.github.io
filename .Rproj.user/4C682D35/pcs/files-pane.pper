@@ -1,5 +1,5 @@
 {
-    "path" : "~/R/mywebsite",
+    "path" : "~/R/mywebsite/config/_default",
     "sortOrder" : [
         {
             "ascending" : true,

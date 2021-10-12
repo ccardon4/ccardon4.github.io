@@ -41,7 +41,7 @@ superuser: true
 title: Carolina Cardona
 ---
 
-Hello! I am a 5-th year Ph.D. candidate at the [Johns Hopkins Bloomberg School of Public Health (JHSPH)](https://publichealth.jhu.edu/) in the [Department of Population, Family and Reproductive Health](https://publichealth.jhu.edu/departments/population-family-and-reproductive-health). I work as a research assistant at the [Bill and Melinda Gates Institute for Population and Reproductive Health](https://www.gatesinstitute.org/) as part of the [Performance Monitoring for Action (PMA)](https://www.pmadata.org/) and [Demographic Dividend](https://demographicdividend.org/) research groups. 
+Hello! I am a 5th year Ph.D. candidate at the [Johns Hopkins Bloomberg School of Public Health (JHSPH)](https://publichealth.jhu.edu/) in the [Department of Population, Family and Reproductive Health](https://publichealth.jhu.edu/departments/population-family-and-reproductive-health). I work as a research assistant at the [Bill and Melinda Gates Institute for Population and Reproductive Health](https://www.gatesinstitute.org/) as part of the [Performance Monitoring for Action (PMA)](https://www.pmadata.org/) and [Demographic Dividend](https://demographicdividend.org/) research groups. 
 
 My research centers on the application of economics to solve public health problems, focusing on sexual and reproductive health, family planning, and population health. Prior to the doctoral program, I worked as a research assistant at JHSPH with [Dr. David Bishai](https://publichealth.jhu.edu/faculty/59/david-m-bishai), measuring the progress in mortality reduction and analyzing trends in U.S. social spending. In Bolivia,  I worked for the [Ministry of Planning and Development](https://www.udape.gob.bo/), estimating sub-national and national mortality indicators.
 
@@ -49,4 +49,4 @@ I received my Master’s degree in Health Economics from the [Department of Inte
 
 In my free time, I enjoy connecting with people, baking, and running. I wish to complete my first half marathon in 2022. I also love to travel, and thus far, I have lived in four countries--Bolivia, Brazil, Panama, and the United States. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

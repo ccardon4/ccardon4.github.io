@@ -62,7 +62,7 @@ In-line math: $x + y = z$
 Block math:
 
 $$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+f\left( x \right) = \;\frac{{  2\left( {x + 4} \right)\left( {x - 4} \right)  }}{{  \left( {x + 4} \right)\left( {x + 1} \right)  }}
 $$
 
 ---
@@ -72,16 +72,16 @@ $$
 Make content appear incrementally
 
 ```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
+{{ %/* fragment */% }} One {{ %/* /fragment */% }}
+{{ %/* fragment */% }} **Two** {{ %/* /fragment */% }}
+{{ %/* fragment */% }} Three {{ %/* /fragment */% }}
 ```
 
 Press `Space` to play!
 
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+{{ % fragment % }} One {{ % /fragment % }}
+{{ % fragment % }} **Two** {{ % /fragment % }}
+{{ % fragment % }} Three {{ % /fragment % }}
 
 ---
 
@@ -97,18 +97,18 @@ A fragment can accept two optional parameters:
 Add speaker notes to your presentation
 
 ```markdown
-{{%/* speaker_note */%}}
+{{ %/* speaker_note */% }}
 - Only the speaker can read these notes
 - Press `S` key to view
-{{%/* /speaker_note */%}}
+{{ %/* /speaker_note */% }}
 ```
 
 Press the `S` key to view the speaker notes!
 
-{{< speaker_note >}}
+{{ < speaker_note > }}
 - Only the speaker can read these notes
 - Press `S` key to view
-{{< /speaker_note >}}
+{{ < /speaker_note > }}
 
 ---
 
@@ -129,16 +129,16 @@ Press the `S` key to view the speaker notes!
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+{{ < slide background-image="/media/boards.jpg" > }}
 
 ## Custom Slide
 
 Customize the slide style and background
 
 ```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
+{{ </* slide background-image="/media/boards.jpg" */> }}
+{{ </* slide background-color="#0000FF" */> }}
+{{ </* slide class="my-style" */> }}
 ```
 
 ---

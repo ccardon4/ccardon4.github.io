@@ -15,6 +15,7 @@ highlight_name: true
 interests:
 - Health Economics
 - Economic Demography
+- Women's Empowerment
 - Sexual and Reproductive Health
 organizations:
 - name: Johns Hopkins University Bloomberg School of Public Health
@@ -30,9 +31,12 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/cicardon
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=av70KNEAAAAJ&hl=en
+- icon: cv
+  icon_pack: ai
+  link: "uploads/resume.pdf"
 superuser: true
 title: Carolina Cardona
 ---
